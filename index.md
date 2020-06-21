@@ -1,3 +1,4 @@
 # The Witcher series
-A website for my favourite character is currently being built here!
-My favourite character is Gerald of Riva
+My favourite character is Gerald of Riva.
+He is a witcher and kills beasts.
+He also searches for a girl named Cirilla.
