@@ -8,3 +8,7 @@ He also searches for a girl named Cirilla.
 * loves potions
 * in love with Yennefer
 * has two swords, silver and metal
+
+As Gerald said:
+> Damn, You're Ugly.
+> I Believe In The Sword.
